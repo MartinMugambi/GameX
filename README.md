@@ -1,7 +1,7 @@
 # GameX
 🚧 Work In Progress 🚧
 
- GameX App is an android application that enables gamers find the best gaming deals. [GameX]("") alllows gamers to shop for their various games online based on their current gaming console.  The application has been engineered using Firebase as the database.
+ GameX App is an android application that enables gamers find the best gaming deals. [GameX]("https://github.com/MartinMugambi/GameX") alllows gamers to shop for their various games online based on their current gaming console.  The application has been engineered using Firebase as the database.
  
  I created this repository for a few reasons:
  1. To learn the approch of implementing clean architecture and [SOLID principles](https://en.wikipedia.org/wiki/SOLID#:~:text=The%20SOLID%20concepts%20are%3A,%2C%20but%20closed%20for%20modification.%22) in an android app.
@@ -18,7 +18,7 @@
 - [Screenshots](#screenshots)
 
 ## Prerequisite.
-- In order to run the application, you need to [clone]("link_to_clone)/[fork]("link_to_fork) the [Gamex Project]("").
+- In order to run the application, you need to [clone]("link_to_clone)/[fork]("link_to_fork) the [Gamex Project]("https://github.com/MartinMugambi/GameX").
 
 - Download the [Flutter Programming Language SDK]("https://flutter.dev/?gclsrc=ds&gclsrc=ds) in your computer.
 
@@ -40,8 +40,8 @@
  
  ## Screenshots.
 
-<img src="images/splash.png" width="420"/> <img src="images/login.png" width="420"/> <img src="images/signup.png" width="460"/> <img src="images/HomePage.png" width="460"/>
- <img src="images/detail.png" width="460"/> <img src="images/detail_2.png" width="460"/> <img src="images/search page.png" width="460"/> <img src="images/search_2.png" width="460"/>  <img src="images/saved page.png" width="460"/>  <img src="images/cart.png" width="460"/>
+<img src="images/splash.png" width="400"/> <img src="images/login.png" width="400"/> <img src="images/signup.png" width="400"/> <img src="images/HomePage.png" width="400"/>
+ <img src="images/detail.png" width="400"/> <img src="images/detail_2.png" width="400"/> <img src="images/search page.png" width="400"/> <img src="images/search_2.png" width="400"/>  <img src="images/saved page.png" width="400"/>  <img src="images/cart.png" width="400"/>
 
 
 
