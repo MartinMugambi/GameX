@@ -40,7 +40,7 @@
  
  ## Screenshots.
 
-<img src="images/splash.png" width="460"/> <img src="images/login.png" width="460"/> <img src="images/signup.png" width="460"/> <img src="images/HomePage.png" width="460"/>
+<img src="images/splash.png" width="400"/> <img src="images/login.png" width="400"/> <img src="images/signup.png" width="460"/> <img src="images/HomePage.png" width="460"/>
  <img src="images/detail.png" width="460"/> <img src="images/detail_2.png" width="460"/> <img src="images/search page.png" width="460"/> <img src="images/search_2.png" width="460"/>  <img src="images/saved page.png" width="460"/>  <img src="images/cart.png" width="460"/>
 
 
