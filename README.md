@@ -1,4 +1,4 @@
-# GameX
+# GameX - Flutter Application
 🚧 Work In Progress 🚧
 
  GameX App is an android application that enables gamers find the best gaming deals. [GameX]("https://github.com/MartinMugambi/GameX") alllows gamers to shop for their various games online based on their current gaming console.  The application has been engineered using Firebase as the database.
